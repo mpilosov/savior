@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Jude Ernest Underground Savior"
 intro = ""
-description = "8.1.18<br>Album out now. Stream below."
+description = "Welcome to the underground"
 authorimage = "jeus_narrow.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -45,11 +45,14 @@ google = ""
 stackoverflow = ""
 email = "saving.the.underground@gmail.com"
 
+
 ## Extras
 [params.extra]
 copyright = "Copyright 2018 Jude Ernest"
 poweredby = true
 highlightjs = false
+displayrssicon = false
+
 
 ## Main Menu
 [[menu.main]]
