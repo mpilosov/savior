@@ -54,6 +54,31 @@ highlightjs = false
 displayrssicon = false
 
 
+[[menu.main]]
+    name = "music"
+    weight = 25
+    identifier = "music"
+    url = "music"
+
+[[menu.main]]
+    name = "announcements"
+    weight = 50
+    identifier = "announcements"
+    url = "psa"
+
+[[menu.main]]
+    name = "news"
+    weight = 75
+    identifier = "blog"
+    url = "blog"
+
+[[menu.main]]
+  name = "about"
+  weight = 100
+  identifier = "about"
+  url = "about"
+
+
 # ## Main Menu
 # [[menu.main]]
 #     name = "apple music"
@@ -84,30 +109,7 @@ displayrssicon = false
 #     weight = 100
 #     identifier = "tidal"
 #     url = "https://tidal.com/album/92771105"
-[[menu.main]]
-    name = "music"
-    weight = 25
-    identifier = "music"
-    url = "music"
-
-[[menu.main]]
-    name = "announcements"
-    weight = 50
-    identifier = "announcements"
-    url = "psa"
-
-[[menu.main]]
-    name = "news"
-    weight = 75
-    identifier = "blog"
-    url = "blog"
-
-[[menu.main]]
-  name = "about"
-  weight = 100
-  identifier = "about"
-  url = "about"
-
+#
 # [[menu.main]]
 #     name = "apple music"
 #     identifier = "apple"
