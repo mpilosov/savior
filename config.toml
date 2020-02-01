@@ -1,0 +1,98 @@
+## Basic Configuration
+
+baseurl = "https://undergroundsavior.com" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Jude Ernest"
+title = "JEUS"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "" # Comment out to disable Disqus.
+googleAnalytics = "UA-122657370-2"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Jude Ernest Underground Savior"
+intro = ""
+description = "8.1.18<br>Album out now. Stream below."
+authorimage = "jeus_narrow.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Album out now. Stream for free."
+keywords = "jeus, music, hiphop, rap"
+
+## Social Accounts
+[params.social]
+github = ""
+instagram = "j.eus"
+xing = ""
+linkedin = ""
+snapchat = "imjeus"
+twitter = "judeisjeus"
+facebook = "Jude-Ernest-Underground-Savior-2177031582325316/"
+google = ""
+stackoverflow = ""
+email = "saving.the.underground@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "Copyright 2018 Jude Ernest" 
+poweredby = true
+highlightjs = false
+
+## Main Menu
+[[menu.main]]
+    name = "apple music"
+    weight = 100
+    identifier = "apple music"
+    url = "https://itunes.apple.com/us/album/jude-ernest-underground-savior-ep/1418994982"
+    
+[[menu.main]]
+    name = "spotify"
+    weight = 100
+    identifier = "spotify"
+    url = "https://open.spotify.com/album/1mQFGmXfZw0cCcYKXAgM8U?si=BUn7-Fv_QSuxn0IrRM91iQ"
+
+[[menu.main]]
+    name = "google play"
+    weight = 100
+    identifier = "google play"
+    url = "https://play.google.com/store/music/album/J_E_U_S_Jude_Ernest_Underground_Savior?id=Bksuotbg6q5o2inoffqasdajjme&hl=en"
+
+[[menu.main]]
+    name = "youtube"
+    weight = 100
+    identifier = "youtube"
+    url = "https://www.youtube.com/watch?v=Bgur2VpXJOY&list=PL1HT2aDzM1_rZALXjsi1admhjHDZPPMdm"
+
+[[menu.main]]
+    name = "tidal"
+    weight = 100
+    identifier = "tidal"
+    url = "https://tidal.com/album/92771105"
+
+    
+
+        
+# [[menu.main]]
+#     name = "apple music"
+#     identifier = "apple"
+#     weight = 200
+#     url = "http://www.apple.com"
+
+# [[menu.main]]
+#     name = "soundcloud"
+#     identifier = "soundcloud"
+#     weight = 300
+#     url = "http://www.soundcloud.com/judeisjeus"
