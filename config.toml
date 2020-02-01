@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://undergroundsavior.com" 
+baseurl = "https://undergroundsavior.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -47,7 +47,7 @@ email = "saving.the.underground@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "Copyright 2018 Jude Ernest" 
+copyright = "Copyright 2018 Jude Ernest"
 poweredby = true
 highlightjs = false
 
@@ -57,7 +57,7 @@ highlightjs = false
     weight = 100
     identifier = "apple music"
     url = "https://itunes.apple.com/us/album/jude-ernest-underground-savior-ep/1418994982"
-    
+
 [[menu.main]]
     name = "spotify"
     weight = 100
@@ -82,9 +82,9 @@ highlightjs = false
     identifier = "tidal"
     url = "https://tidal.com/album/92771105"
 
-    
 
-        
+
+
 # [[menu.main]]
 #     name = "apple music"
 #     identifier = "apple"
